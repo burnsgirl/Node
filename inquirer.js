@@ -1,8 +1,16 @@
 
 var inquirer = require('inquirer');
 inquirer
-    .prompt([
+const questions = [
         {
+            type: 'input',
+            message: 'What is your GitHub username?',
+            name: 'username',
+        }, {
+            type: 'input',
+            message: 'What is your email address?',
+            name: 'email',
+        }, {
             type: 'input',
             message: 'What is the title of your project?',
             name: 'title',
@@ -36,29 +44,6 @@ inquirer
             message: 'How do you test the application?',
             name: 'test',
             default: 'npm test',
-        }, {
-            type:'input',
-            message: '',
-            name: 'questions',
-        }
-    ])
-    .then((response) => {
-        // Use user feedback//
-    })
-    .catch ((error) => {
-        if (error.isTylError) {
-            //Prompt couldnt be rendered
-        } else {
-            //Something else went wrong
-        }
-    });
+        },
+    ];
 
-
-    // Title of ReadMe
-    // Images or Video input
-    // Links
-    // Description
-    // Colaborators
-    // License
-    // Technologies Used
-    // Contact Information
