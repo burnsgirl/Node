@@ -1,11 +1,15 @@
-# love
-  ![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
+# Webkinz
+  ![Github License](https://img.shields.io/badge/license-GPL-blue.svg)
   ## Description
-  of
+  little dogs
   ## Table of Contents
   [Installation](#installation)
 
   [Usage](#usage)
+
+  
+[license](#license)
+
 
   [Contributing](#contributing)
 
@@ -13,18 +17,17 @@
 
   [Questions](#questions)
 
+ 
   
-[license](#license)
-
   ## Installation
-  work
+  eating
   ## Usage
-  doodles
+  ![alt text](Assets/one.jpeg)
   ## License 
-    This project is licensed with MIT.
+    This project is licensed with GPL.
   ## Contributing
-  everythin
+  mom
   ## Test
-  npm test
+  nmp test
   ## Questions
-  Any questions? Contact the. Access more of my work at [for](https://github.com/for/).
+  Any questions? Contact dauphineburns@gmail.com. Access more of my work at [burnsgirl](https://github.com/burnsgirl/).
