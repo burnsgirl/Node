@@ -1,14 +1,14 @@
-# Webkinz
+# How to Train A Dog
   ![Github License](https://img.shields.io/badge/license-GPL-blue.svg)
   ## Description
-  little dogs
+  This application will walk you through how to train a dog. It will start at beginner and end at advanced.
   ## Table of Contents
   [Installation](#installation)
 
   [Usage](#usage)
 
   
-[license](#license)
+[License](#license)
 
 
   [Contributing](#contributing)
@@ -20,14 +20,14 @@
  
   
   ## Installation
-  eating
+  You should create a gitignore file. Then install node inquirer and then make sure you have a package.json file.
   ## Usage
-  ![alt text](Assets/one.jpeg)
+ <iframe src="https://drive.google.com/file/d/1KD292q8xIrS3LkguGowm_vUD2hvmQwaT/preview" width="640" height="480"></iframe>
   ## License 
     This project is licensed with GPL.
   ## Contributing
-  mom
+  If you are wanting contribution rights and information, contact me at my email below.
   ## Test
-  nmp test
+  npm test
   ## Questions
-  Any questions? Contact dauphineburns@gmail.com. Access more of my work at [burnsgirl](https://github.com/burnsgirl/).
+  Any questions? Contact dauphineburns@gmail.com. Access more of my work at [Burnsgirl](https://github.com/Burnsgirl/).
