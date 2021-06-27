@@ -39,7 +39,11 @@ const questions = [
             type: 'checkbox',
             message: 'Which licenses were used?',
             name: 'license',
-            choices: [ 'MIT', 'Apache', 'GPL', 'none']
+            choices: ['MIT', 'Apache', 'GPL', 'none'],
+        }, {
+            type:'input',
+            message:'What are the contribution guidelines?',
+            name:'contribution'
         }, {
             type: 'input',
             message: 'How do you test the application?',
