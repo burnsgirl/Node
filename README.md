@@ -22,7 +22,7 @@
   ## Installation
   You should create a gitignore file. Then install node inquirer and then make sure you have a package.json file.
   ## Usage
- <iframe src="https://drive.google.com/file/d/1KD292q8xIrS3LkguGowm_vUD2hvmQwaT/preview" width="640" height="480"></iframe>
+ 
   ## License 
     This project is licensed with GPL.
   ## Contributing
