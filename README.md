@@ -1,7 +1,7 @@
-# How to Train A Dog
-  ![Github License](https://img.shields.io/badge/license-GPL-blue.svg)
+# How to Use Node
+  ![Github License](https://img.shields.io/badge/license-none-blue.svg)
   ## Description
-  This application will walk you through how to train a dog. It will start at beginner and end at advanced.
+  This application showcases how to do prompt commands in the command line of terminal.
   ## Table of Contents
   [Installation](#installation)
 
@@ -20,14 +20,15 @@
  
   
   ## Installation
-  You should create a gitignore file. Then install node inquirer and then make sure you have a package.json file.
+  To install the application, you need to have a gitignore file. Then download the package.json to install the npms you would like.
   ## Usage
-  https://drive.google.com/file/d/1KD292q8xIrS3LkguGowm_vUD2hvmQwaT/view
+  This site is supposed to be used for learning how to make node commands.
+  https://drive.google.com/file/d/1kMgyfjg8x2uBRTrJvsQ_DL1KS4hzfkFW/view
   ## License 
-    This project is licensed with GPL.
+    This project is licensed with none.
   ## Contributing
-  If you are wanting contribution rights and information, contact me at my email below.
+  If you would like to contribute, you can email me at the same email in  the questions section.
   ## Test
   npm test
   ## Questions
-  Any questions? Contact dauphineburns@gmail.com. Access more of my work at [Burnsgirl](https://github.com/Burnsgirl/).
+  Any questions? Contact dauphineburns@gmail.com. Access more of my work at [burnsgirl](https://github.com/burnsgirl/).
